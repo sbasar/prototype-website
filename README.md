@@ -1,4 +1,4 @@
-Prototype Website
+PROTOTYPE WEBSITE
 =================
 
-Built by Ajay and Shaq
+The Best Prototype Website Ever
